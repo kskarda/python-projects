@@ -1,0 +1,40 @@
+{
+  "songlist": [
+    {
+      "id": 1234,
+      "title": "Dinner and Diatribes",
+      "artist": "Hozier",
+      "year": 2019,
+      "album": "Wasteland, Baby!"
+    },
+    {
+      "id": 8930,
+      "title": "White Lies",
+      "artist": "Max Frost",
+      "year": 2013,
+      "album": "Low High Low"
+    },
+    {
+      "id": 6797,
+      "title": "Don't Fade",
+      "artist": "Vance Joy",
+      "year": 2022,
+      "album": "In Our Own Sweet Time"
+    },
+    {
+      "id": 2345,
+      "title": "Sun Hands",
+      "artist": "Local Natives",
+      "year": 2009,
+      "album": "Gorilla Manor"
+    },
+    {
+      "id": 4837,
+      "title": "Holy Smoke",
+      "artist": "Palace",
+      "year": 2016,
+      "album": "So Long Forever"
+    }
+  ]
+}
+
